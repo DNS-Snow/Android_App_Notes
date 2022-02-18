@@ -17,9 +17,8 @@ A small and basic Note taking app
 
 ### A really basic app
 no fancy features will probably modify it in the future
-And decide if it is something that would be worth the 
-
-**Bold** and _Italic_ and `Code` text
+And decide if it is something that would be worth it
+`Code`
 
 **Useage**
 _Open sourced and can be modified. By forking the project you can use it 
