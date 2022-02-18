@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## Welcome to Android_App_Notes
 
-You can use the [editor on GitHub](https://github.com/DNS-Snow/Android_App_Notes/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Features.
+* Add Notes
+* Remove Notes
+* View Notes
+* Backup Notes
+* Restore Notes 
+-----------------
+## Pages
+* Main
+* Notes
+* Backup/Restore
+-----------------
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
+### A really basic app
+no fancy features will probably modify it in the future
+And decide if it is something that would be worth the 
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+**Useage**
+_Open sourced and can be modified. By forking the project you can use it 
+With no limitations MIT Licensed.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DNS-Snow/Android_App_Notes/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Projects-A-Notes](https://github.com/DNS-Snow/Android_App_Notes)
